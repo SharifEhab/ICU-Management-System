@@ -7,3 +7,16 @@
  <li>Almost completed backend using python and flask </li>
  <li>Created an ER model sketch:</li>
 <img src="ERmodel.png">
+
+
+## Acknowledgments
+
+I would like to express my gratitude to the following contributors who have made valuable contributions to this project:
+
+| Contributor | GitHub Profile |
+| --- | --- |
+| Mariam Gamal | [@mariamgamal70](https://github.com/mariamgamal70) |
+| Nada Alfowey | [@NadaAlfowey](https://github.com/NadaAlfowey) |
+| Hassan ElSheikh | [@hassanelsheikh](https://github.com/hassanelsheikh) |
+
+Thank you for your support and collaboration!
